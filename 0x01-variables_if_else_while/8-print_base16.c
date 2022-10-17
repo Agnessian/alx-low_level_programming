@@ -12,7 +12,7 @@ int main(void)
 		putchar((num % 10) + '0');
 
 	for (la = 'a';  la >= 'f'; la--)
-		putchar(le);
+		putchar(la);
 
 	putchar('\n');
 
